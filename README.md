@@ -1,4 +1,4 @@
-<h1 align="center">🧑🏿‍💻 Gerenciador de Memória RAM</h1>
+<h1 align="center">🧑🏿‍💻 Basic_CRUD API</h1>
 
 ## 💻 Sobre o projeto
 <p align="center">Neste mini projeto, criei um CRUD básico, utilizando o NodeJs. Nele, consegui implementar um Middleware para etender melhor a sua funcionalidade.</p>
